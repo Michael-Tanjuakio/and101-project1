@@ -36,7 +36,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://imgur.com/a/RLe0A00' title='AND101 - Project 1 Gif' width='' lt='AND101 - Project 1 Gif' />
+![and101_project1_video](https://github.com/Michael-Tanjuakio/and101-project1/assets/17733456/844504b2-4d85-43e8-9dad-2adb07ee2c4a)
 
 GIF created with **ScreenToGif**
 
